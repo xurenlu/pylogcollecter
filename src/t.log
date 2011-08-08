@@ -1,0 +1,5 @@
+h
+hi
+    pprint.pprint(k.CONFIG)
+baby 
+[08-Aug-2011 09:12:40] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in app/backend.php on line 177
